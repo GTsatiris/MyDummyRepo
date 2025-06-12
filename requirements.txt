@@ -1,0 +1,6 @@
+torch==2.0.0
+transformers==4.28.1
+typing
+fastapi
+pydantic
+deepl
